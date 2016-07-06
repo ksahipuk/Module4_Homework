@@ -1,5 +1,6 @@
 body {
     background: url('../img/background.png') repeat-x;
+    background-color: #0c76a1;
     font-family: "Tahoma";
     font-size: 14px;
     height: 1000px;
@@ -221,6 +222,7 @@ ul.menu > li:hover > ul.submenu {
     text-align: center;
 }
 
+<<<<<<< HEAD
 .footer a {
     color: #dee7ee;
     font-family: "Tahoma";
@@ -229,3 +231,6 @@ ul.menu > li:hover > ul.submenu {
 }
 
 /** End of FOOTER **/
+=======
+/** End of FOOTER **/
+>>>>>>> 126c572b774f3ef03f74b9f217c7abfe29b8de4f
